@@ -1,3 +1,131 @@
+.wrapper{
+    background-color: transparent;
+    margin:auto;
+}
+
+
 h1 {
-    color: red
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    letter-spacing: -3px;
+    height: 20px;
+    background-color: transparent;
+    color: red;
+    border: none;
+    z-index: 0;
+    left: 10px;
+    top: -40px;
+}
+    body{
+        background-image: url('https://i.imgur.com/Vr8C1XC.jpg');
+        height: 600px;
+    
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    width: 85px;
+    height: 25px;
+    color:white;
+    background-color: red;
+    border: solid 3px red;
+    border-radius: 10px;
+    z-index: 1;
+    position: relative;
+    left: 1200px;
+    top: -60px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    top: -90px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    letter-spacing: -1px;
+    text-align: center;
+    color:white;
+    z-index: 1;
+    position: relative;
+
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    width: 900px;
+    height: 200px;
+    z-index: 0;
+    position: relative;
+    left: 500px;
+}
+
+    h6{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        color: white;
+        background-color: red;
+        border: solid 1px red;
+        border-radius: 1px;
+        width: 140px;
+        height: 30px;
+        margin-top: -240px;
+        margin-left: 680px;
+    }
+
+
+.section{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    width: 1340px;
+    height: 800px;
+    background-color: black;
+    margin-top: 300px;
+    left: -10px;
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    width: 520px;
+    height: 20px;
+    margin-top: -760px;
+    margin-left: 40px;
+    z-index: 0;
+    position: relative; 
+} 
+
+h7{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: white;
+width: 520px;
+height: 20px;
+margin-top: -850px;
+margin-left: 40px;
+}
+
+.image{
+    margin-top: 1px;
+    margin-left: 1000px;
+}
+.section-two{
+    background-color: black;
+    width:1345px;
+    height: 800px;
+
+}
+h8{
+    width: 500px;
+    height:100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: white;
+    margin-top: -500px;
+    margin-left: 500px;
 }
